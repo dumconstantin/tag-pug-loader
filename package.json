@@ -1,0 +1,29 @@
+{
+  "name": "tag-pug-loader",
+  "version": "1.0.0",
+  "description": "Integrating RiotJS with PugJs (ex Jade) in a Webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumconstantin/tag-pug-loader.git"
+  },
+  "keywords": [
+    "riotjs",
+    "pugjs",
+    "jade",
+    "templating",
+    "immutable",
+    "virtual-dom",
+    "webpack",
+    "loader"
+  ],
+  "author": "Constantin Dumitrescu <dum.constantin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumconstantin/tag-pug-loader/issues"
+  },
+  "homepage": "https://github.com/dumconstantin/tag-pug-loader#readme"
+}
