@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/dumconstantin/tag-pug-loader/issues"
   },
-  "homepage": "https://github.com/dumconstantin/tag-pug-loader#readme"
+  "homepage": "https://github.com/dumconstantin/tag-pug-loader#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta6",
+    "riot": "^2.6.2"
+  }
 }
